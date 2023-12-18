@@ -1,6 +1,6 @@
 // api key  from TMDB
 
-const api = "api_key=0d7fcb538472b4a248392fdaf9ae8532";
+const api = "api_key=211238ae406f475d798d72c7d5b7bab8";
 
 // base url of the site
 const base_url = "https://api.themoviedb.org/3";
